@@ -34,6 +34,12 @@ TechnoMind is an AI-powered desktop assistant that can interact through both voi
 3. **Run the assistant:**
    python main.py
 
+## 📄 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+
+
 
 ## Author
 
