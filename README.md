@@ -1,6 +1,4 @@
-# Technomind
- Ai desktop assistant
- # TechnoMind – AI Desktop Assistant 🤖🎧
+# TechnoMind – AI Desktop Assistant 🤖🎧
 
 TechnoMind is an AI-powered desktop assistant that can interact through both voice and text. It can answer your queries using Wikipedia, open applications like YouTube, and even play music using Spotify.
 
